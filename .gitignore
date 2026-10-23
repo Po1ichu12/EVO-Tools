@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Compilación
+build/
+dist/
+*.spec
+
+# Configuración local
+EVO_Tools_State.db
+EVO_Tools_Config.json
+
+# Archivos de trabajo
+*.xlsx
+*.xlsm
+*.eml
+*.pdx
+*.odx
